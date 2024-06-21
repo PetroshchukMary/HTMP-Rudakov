@@ -1,0 +1,92 @@
+body {
+    font-family: cursive;
+    background: linear-gradient(to bottom, #7fd6ec,#b5e6f3, #ccebf5);
+    margin: 0;
+}
+footer{
+    position:relative;
+    text-align: center;
+    color: #fff;
+    width: 100%; 
+    background-color: black; 
+    left: 0px;
+    bottom: 0px;
+    height: 77px;
+    padding-top: 2px;  
+}
+.book{
+    margin: 10px;
+    border-bottom-style: solid;
+    border-color:rgb(40, 10, 173);
+    border-width: 5px;
+    height: 242px;
+}
+img{
+    float: left;
+    margin-right: 20px;
+    outline: 5px solid brown;
+    margin-left: 5px;
+}
+
+h4{
+    font-weight: normal;
+    color: rgb(13, 150, 13);
+    float: right;
+    font-size: 18px;
+    margin-top: 0px;
+}
+.kbook{
+    font-size: 19px;
+}
+.kbook a {
+    color: rgb(40, 10, 173);
+    display: inline-block;
+    padding: 10px;
+    line-height: 0px;
+}
+.kbook a:hover{
+    color: chartreuse;
+    text-decoration: none;
+}
+.mybook{
+    float: right;
+    text-align: right;
+    font-size: 18px;
+    line-height: 0;
+}
+.kopys{
+    margin: 0px 180px 10px 10px;
+    text-indent: 20px;
+    font-size: 18px;
+}
+.opys{
+    margin: 0px 10px 10px 10px;
+    border-bottom-style: solid;
+    border-color:rgb(40, 10, 173);
+    border-width: 5px;
+}
+.author{
+    margin: 10px;
+    border-bottom-style: solid;
+    border-color:rgb(40, 10, 173);
+    border-width: 5px;
+    height: 210px;
+}
+.kauthor{
+    font-size: 19px;
+    text-indent: 20px;
+    margin-right: 180px;
+}
+.rozdil{
+    margin: 0px 80px 30px;
+    font-size: 20px;
+}
+.rozdil a {
+    color: rgb(40, 10, 173)k;
+    display: inline-block;
+}
+h3{
+    color: red;
+    font-size: 25px;
+    margin-left: 130px;
+}

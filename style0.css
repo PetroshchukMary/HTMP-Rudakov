@@ -1,0 +1,67 @@
+body {
+    font-family: cursive;
+    background-color: rgb(193, 229, 241);
+    margin: 0;
+}
+.book{
+    margin: 10px;
+    border-bottom-style: solid;
+    border-color:rgb(40, 10, 173);
+    border-width: 5px;
+    height: 242px;
+}
+.foto1{
+    float: left;
+    margin-right: 20px;
+    outline: 5px solid brown;
+    margin-left: 5px;
+}
+h4{
+    font-weight: normal;
+    color: rgb(13, 150, 13);
+    float: right;
+    font-size: 18px;
+    margin-top: 0px;
+}
+.kbook{
+    font-size: 19px;
+}
+.kbook a {
+    color: rgb(40, 10, 173);
+    display: inline-block;
+    padding: 10px;
+    line-height: 0px;
+}
+.kbook a:hover{
+    color: chartreuse;
+    text-decoration: none;
+}
+.mybook{
+    float: right;
+    text-align: right;
+    font-size: 18px;
+    line-height: 0;
+}
+.foto{
+    border-bottom-style: solid;
+    border-color:rgb(40, 10, 173);
+    border-width: 5px;
+    margin: 10px; 
+}
+.ft{
+    font-size: 20px;
+    font-weight: 800;
+    margin-left: 20px;
+}
+.kartinki{
+    margin: 10px;
+}
+.text{
+    margin: 12px;
+    margin-top: 5px;
+    font-size: 18px;
+}
+
+
+
+
